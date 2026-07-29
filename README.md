@@ -147,7 +147,7 @@ images/dashboard.png
 **Anish**
 
 - GitHub: https://github.com/char-Anish
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: *(www.linkedin.com/in/anish-kumar-555-)*
 
 ---
 
