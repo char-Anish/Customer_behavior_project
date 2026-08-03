@@ -106,7 +106,7 @@ Example:
 ```
 images/dashboard.png
 ```
-
+![Dashboard](images/dashboard.png)
 ---
 
 ## 🎯 Skills Demonstrated
